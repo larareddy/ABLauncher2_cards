@@ -1,0 +1,46 @@
+package com.android.hmlauncher2.cards.climate;
+
+import android.content.Context;
+import android.util.AttributeSet;
+
+import com.android.hmlauncher2.R;
+import com.android.hmlauncher2.cards.BaseCardHolder;
+import com.android.hmlauncher2.cards.CardsProvider;
+
+/**
+ * Created by soma on 2/13/2017.
+ */
+
+public class ClimateCardHolder extends BaseCardHolder {
+    private static final String TAG = ClimateCardHolder.class.getCanonicalName();
+
+    public ClimateCardHolder(Context context) {
+        super(context);
+    }
+
+    public ClimateCardHolder(Context context, AttributeSet attrs) {
+        super(context, attrs);
+    }
+
+    public ClimateCardHolder(Context context, AttributeSet attrs, int defStyleAttr) {
+        super(context, attrs, defStyleAttr);
+    }
+
+    @Override
+    public void updateLayout(final int cardType) {
+        switch (cardType) {
+            case CardsProvider.TYPE_MEAL:
+                setCardView(R.layout.climate_meal_views);
+                break;
+            case CardsProvider.TYPE_SNACK:
+                setCardView(R.layout.climate_snack_views);
+                break;
+            case CardsProvider.TYPE_BITE:
+                setCardView(R.layout.climate_bite_views);
+                break;
+            default:
+                setCardView(R.layout.climate_meal_views);
+                break;
+        }
+    }
+}

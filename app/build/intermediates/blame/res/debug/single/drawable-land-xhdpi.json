@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\bg_cling2.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\bg_cling2.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\active_floor_ic.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\active_floor_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\divider_launcher_holo.9.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\divider_launcher_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\fan_top_bottom_enabled.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\fan_top_bottom_enabled.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\fan_top_enabled.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\fan_top_enabled.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\hotseat_track_holo.9.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\hotseat_track_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\inactive_head_ic.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\inactive_head_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\active_floor_vent_ic.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\active_floor_vent_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\fan_vent_bottom_pressed.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\fan_vent_bottom_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\fan_bottom_pressed.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\fan_bottom_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\ic_home_voice_search_holo.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\ic_home_voice_search_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\bg_cling1.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\bg_cling1.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\fan_top_bottom_pressed.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\fan_top_bottom_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\inactive_floor_head_ic.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\inactive_floor_head_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\active_floor_head_ic.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\active_floor_head_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\inactive_floor_vent_ic.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\inactive_floor_vent_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\bg_cling3.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\bg_cling3.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\workspace_bg.9.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\workspace_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\fan_vent_bottom_enabled.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\fan_vent_bottom_enabled.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\inactive_floor_ic.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\inactive_floor_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\fan_bottom_enabled.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\fan_bottom_enabled.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\fan_top_pressed.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\fan_top_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\active_head_ic.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-land-xhdpi\\active_head_ic.png"
+    }
+]

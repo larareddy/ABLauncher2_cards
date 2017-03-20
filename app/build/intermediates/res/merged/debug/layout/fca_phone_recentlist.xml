@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <include layout="@layout/fca_contacts_list" android:id="@+id/call_layout"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/contact_recent_layout"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <RelativeLayout android:id="@+id/contact_rel_layout"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@color/colorActiveButton"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/add_favorite_img"
+                android:layout_width="30dp"
+                android:layout_marginRight="0dp"
+                android:layout_height="30dp"
+                android:foregroundGravity="center"
+                android:src="@drawable/add_widget"
+                android:layout_marginLeft="6dp"
+                android:layout_marginTop="6dp"/>
+
+
+            <TextView
+                android:id="@+id/add_favorite_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="5dp"
+                android:foregroundGravity="center"
+                android:layout_toRightOf="@+id/add_favorite_img"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:text="Add Favorites"
+                android:maxLines="1"
+                android:gravity="center"
+                android:fontFamily="sans-serif-condensed"
+                android:ellipsize="end"
+                android:textStyle="bold"
+                android:textSize="40px"
+                android:visibility="visible"
+                android:textColor="@color/colorWhite"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.hmlauncher2.cards.climate.ClimateMealViews xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null">
+    <include layout="@layout/card_title" />
+    <com.android.hmlauncher2.cards.widgets.HomeScreenViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <LinearLayout
+            android:layout_width="match_parent" android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"  android:layout_gravity="center" android:gravity="center"
+                android:orientation="horizontal" android:background="@color/colorTrans">
+
+                <LinearLayout
+                    android:layout_width="wrap_content" android:padding="5dp"
+                    android:layout_height="wrap_content" android:orientation="vertical">
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/arow_up" android:padding="1dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/all_apps_button_icon"/>
+                    <TextView
+                        android:id="@+id/temp_left"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:ellipsize="end"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        android:maxLines="1"
+                        android:text="68"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="28dp"
+                        android:visibility="visible" />
+
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/arrow_down" android:padding="1dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/all_apps_button_icon"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"  android:layout_gravity="center" android:gravity="center" android:orientation="vertical"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent" android:layout_gravity="center" android:gravity="center" android:orientation="horizontal">
+
+                        <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                            android:id="@+id/seat1" android:padding="1dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/all_apps_button_icon"/>
+                        <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                            android:layout_width="wrap_content" android:padding="1dp"
+                            android:id="@+id/seat2"
+                            android:layout_height="wrap_content"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/all_apps_button_icon"/>
+                        <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                            android:layout_width="wrap_content" android:padding="1dp"
+                            android:id="@+id/seat3"
+                            android:layout_height="wrap_content"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/all_apps_button_icon"/>
+                        <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                            android:layout_width="wrap_content" android:padding="1dp"
+                            android:id="@+id/seat4"
+                            android:layout_height="wrap_content"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/all_apps_button_icon"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content" android:layout_marginTop="10dp"
+                        android:layout_height="wrap_content" android:layout_gravity="center" android:gravity="center">
+
+                        <Button
+                            android:layout_width="120dp" android:text="Sync" android:textSize="32dp"
+                            android:textColor="@color/colorWhite"
+                            android:layout_height="50dp" android:background="@color/colorPrimaryDark" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content" android:padding="5dp" android:layout_gravity="right"
+                    android:gravity="right"
+                    android:layout_height="wrap_content" android:orientation="vertical">
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/arow_up_right" android:padding="1dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/all_apps_button_icon"/>
+                    <TextView
+                        android:id="@+id/temp_right"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:ellipsize="end"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        android:maxLines="1"
+                        android:text="68"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="28dp"
+                        android:visibility="visible" />
+
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/arrow_down_right" android:padding="1dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/all_apps_button_icon"/>
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" android:padding="3dp" android:background="@color/colorActiveButton">
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/wind_fan_low_speed" android:padding="1dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/all_apps_button_icon"/>
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content" android:padding="1dp"
+                    android:id="@+id/wind1"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/all_apps_button_icon"/>
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content" android:padding="1dp"
+                    android:id="@+id/wind2"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/all_apps_button_icon"/>
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content" android:padding="1dp"
+                    android:id="@+id/wind3"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/all_apps_button_icon"/>
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content" android:padding="1dp"
+                    android:id="@+id/wind4"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/all_apps_button_icon"/>
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content" android:padding="1dp"
+                    android:id="@+id/wind5"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/all_apps_button_icon"/>
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content" android:padding="1dp"
+                    android:id="@+id/wind6"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/all_apps_button_icon"/>
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content" android:padding="1dp"
+                    android:id="@+id/wind7"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/all_apps_button_icon"/>
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content" android:padding="1dp"
+                    android:id="@+id/wind8"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/all_apps_button_icon"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/climate_meal_comfort">
+            </ImageView>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/climate_meal_off">
+            </ImageView>
+        </LinearLayout>
+    </com.android.hmlauncher2.cards.widgets.HomeScreenViewPager>
+    <include layout="@layout/page_indicator" />
+</com.android.hmlauncher2.cards.climate.ClimateMealViews>

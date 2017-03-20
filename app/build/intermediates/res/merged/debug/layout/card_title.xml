@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/card_title_padding_top">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/card_title"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/card_title_size"
+        android:fontFamily="sans-serif-condensed">
+    </TextView>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/close_ic"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="@dimen/card_close_btn_padding"/>
+</RelativeLayout>

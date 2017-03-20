@@ -1,0 +1,7 @@
+#Mon Mar 20 15:59:18 EDT 2017
+base.0=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ce9e9bdf038f109feadeea25afb445aa5bacad89
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c6599d34dece7e4e547ca2f5988e142e85b8cfbc\\classes.dex
+base.1=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c6599d34dece7e4e547ca2f5988e142e85b8cfbc
+file.0=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ce9e9bdf038f109feadeea25afb445aa5bacad89\\classes.dex

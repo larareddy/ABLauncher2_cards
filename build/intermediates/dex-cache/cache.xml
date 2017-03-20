@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HemanthReddy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\HemanthReddy\Desktop\ABLauncher2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_228d68984f93eeacf3dacb1aa006388cef6dc1d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HemanthReddy\.android\build-cache\a3e88de7cba3a7c32ac1392c3461bb7927fcd461\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\HemanthReddy\Desktop\ABLauncher2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_802a0dcff6fb3839f5d20803faeff8ba786ee028\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HemanthReddy\Desktop\ABLauncher2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a2fbe4bd2116030f81f01c27728773da62a18aa">
+        <dex dex="C:\Users\HemanthReddy\Desktop\ABLauncher2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_44a775a48a19dfec8b1f66f25d5c1d13b72f0521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HemanthReddy\Desktop\ABLauncher2_cards\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\HemanthReddy\Desktop\ABLauncher2_cards\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c6599d34dece7e4e547ca2f5988e142e85b8cfbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HemanthReddy\.android\build-cache\da7360734cb5dd3b513d52eaecafa56ebf3d5374\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\HemanthReddy\Desktop\ABLauncher2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3c083f20fa274cd64e4725d526a620f7bad9082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HemanthReddy\Desktop\ABLauncher2_cards\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99f0d5eebbf6fc2dd9206c4e78e9fe5baad98459">
+        <dex dex="C:\Users\HemanthReddy\Desktop\ABLauncher2_cards\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ce9e9bdf038f109feadeea25afb445aa5bacad89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HemanthReddy\.android\build-cache\003a11f378acc3c53462d041f8f9a9dcec5e0a87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\HemanthReddy\Desktop\ABLauncher2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b13e6588990735d0831b47853a440ebf204035dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HemanthReddy\Desktop\ABLauncher2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\HemanthReddy\Desktop\ABLauncher2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1b1831dbea14ea5c3f212e6b928a040d135eae46\classes.dex" />
+    </item>
+
+</items>

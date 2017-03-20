@@ -1,0 +1,579 @@
+[
+    {
+        "outputFile": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1901,
+                        "endColumn": 65,
+                        "endOffset": 1962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 69,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 69,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endColumn": 66,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2104,
+                        "endColumn": 66,
+                        "endOffset": 2166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 67,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2171,
+                        "endColumn": 67,
+                        "endOffset": 2234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 66,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1967,
+                        "endColumn": 66,
+                        "endOffset": 2029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 64,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1836,
+                        "endColumn": 64,
+                        "endOffset": 1896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 68,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2434,
+                        "endColumn": 68,
+                        "endOffset": 2498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 67,
+                    "endOffset": 590
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2366,
+                        "endColumn": 67,
+                        "endOffset": 2429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 595,
+                    "endColumn": 91,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 91,
+                        "endOffset": 1381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 87,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 87,
+                        "endOffset": 1113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 89,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1118,
+                        "endColumn": 89,
+                        "endOffset": 1203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 865,
+                    "endColumn": 85,
+                    "endOffset": 946
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 85,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 951,
+                    "endColumn": 45,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 45,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endColumn": 51,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 51,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 46,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 46,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 47,
+                    "endOffset": 1139
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 47,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1144,
+                    "endColumn": 87,
+                    "endOffset": 1227
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1669,
+                        "endColumn": 87,
+                        "endOffset": 1752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1232,
+                    "endColumn": 81,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2747,
+                        "endColumn": 81,
+                        "endOffset": 2824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endColumn": 79,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2667,
+                        "endColumn": 79,
+                        "endOffset": 2742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1394,
+                    "endColumn": 79,
+                    "endOffset": 1469
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2907,
+                        "endColumn": 79,
+                        "endOffset": 2982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1474,
+                    "endColumn": 83,
+                    "endOffset": 1553
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1417,
+                        "endColumn": 83,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1558,
+                    "endColumn": 53,
+                    "endOffset": 1607
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1758,
+                        "endColumn": 53,
+                        "endOffset": 1807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1612,
+                    "endColumn": 85,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1501,
+                        "endColumn": 85,
+                        "endOffset": 1582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1698,
+                    "endColumn": 81,
+                    "endOffset": 1775
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1587,
+                        "endColumn": 81,
+                        "endOffset": 1664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1780,
+                    "endColumn": 77,
+                    "endOffset": 1853
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2829,
+                        "endColumn": 77,
+                        "endOffset": 2902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1858,
+                    "endColumn": 62,
+                    "endOffset": 1916
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2239,
+                        "endColumn": 62,
+                        "endOffset": 2297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1921,
+                    "endColumn": 62,
+                    "endOffset": 1979
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2302,
+                        "endColumn": 62,
+                        "endOffset": 2360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1984,
+                    "endColumn": 66,
+                    "endOffset": 2046
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2503,
+                        "endColumn": 66,
+                        "endOffset": 2565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2051,
+                    "endColumn": 66,
+                    "endOffset": 2113
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2570,
+                        "endColumn": 66,
+                        "endOffset": 2632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2118,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2223
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-port\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 799
+                    }
+                }
+            }
+        ]
+    }
+]

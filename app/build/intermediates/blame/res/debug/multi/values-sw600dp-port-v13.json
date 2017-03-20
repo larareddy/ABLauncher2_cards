@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 58,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 56,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 56,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 65,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 65,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 69,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 69,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 66,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 66,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 64,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 826,
+                        "endColumn": 64,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 45,
+                    "endOffset": 480
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 45,
+                        "endOffset": 1149
+                    }
+                }
+            }
+        ]
+    }
+]

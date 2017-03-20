@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <size android:height="@dimen/card_picker_height"
+        android:width="@dimen/card_picker_width"/>
+    <stroke android:width="3dp"
+        android:color="#129AD7"/>
+    <solid android:color="@android:color/black" />
+</shape>

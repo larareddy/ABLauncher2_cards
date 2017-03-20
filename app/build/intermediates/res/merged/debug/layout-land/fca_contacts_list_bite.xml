@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content" android:padding="2dp"
+    >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:id="@+id/contact_lin_layout"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <RelativeLayout android:id="@+id/contact_rel_layout"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:background="@color/colorActiveButton"
+                android:layout_height="wrap_content">
+
+
+                <ImageView
+                    android:id="@+id/caller_img"
+                    android:layout_width="30dp"
+                    android:layout_marginRight="0dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/incoming_call_ic"
+                    android:layout_marginLeft="6dp"
+                    android:visibility="gone"
+                    android:layout_marginTop="12dp"/>
+
+
+                <TextView
+                    android:id="@+id/caller_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="0dp"
+                    android:foregroundGravity="left"
+                    android:layout_toRightOf="@+id/caller_img"
+                    android:layout_marginTop="3dp"
+                    android:text="Jeanne Anderson"
+                    android:maxLines="1"
+                    android:gravity="left"
+                    android:fontFamily="sans-serif-condensed"
+                    android:ellipsize="end"
+                    android:textStyle="bold"
+                    android:textSize="32dp"
+                    android:visibility="visible"
+                    android:textColor="@color/colorWhite"/>
+                <TextView android:id="@+id/phone_no"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/caller_img"
+                    android:layout_below="@id/caller_name"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginBottom="2dp"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_marginRight="10dp"
+                    android:text="(873) 806-8765"
+
+                    android:maxLines="1"
+                    android:inputType="phone"
+                    android:gravity="left"
+                    android:ellipsize="end"
+                    android:textSize="28dp"
+                    android:visibility="visible"
+                    android:textColor="@color/colorLightGray"/>
+            </RelativeLayout>
+
+        </LinearLayout>
+       <!-- <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#333333">
+
+        </LinearLayout>-->
+    <!--</com.harman.homescreen.widgets.HomeScreenViewPager>-->
+    <!--<include layout="@layout/page_indicator" />-->
+</LinearLayout>

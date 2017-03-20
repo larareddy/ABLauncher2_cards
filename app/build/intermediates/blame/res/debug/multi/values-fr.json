@@ -1,0 +1,1774 @@
+[
+    {
+        "outputFile": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 100,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5027,
+                        "endColumn": 100,
+                        "endOffset": 5123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 95,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5128,
+                        "endColumn": 95,
+                        "endOffset": 5219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 95,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4822,
+                        "endColumn": 95,
+                        "endOffset": 4913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 108,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4918,
+                        "endColumn": 108,
+                        "endOffset": 5022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 112,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1416,
+                        "endColumn": 112,
+                        "endOffset": 1524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 92,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4139,
+                        "endColumn": 92,
+                        "endOffset": 4227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 173,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 9306,
+                        "endColumn": 173,
+                        "endOffset": 9475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 108,
+                    "endOffset": 991
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 9197,
+                        "endColumn": 108,
+                        "endOffset": 9301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 996,
+                    "endColumn": 100,
+                    "endOffset": 1092
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4232,
+                        "endColumn": 100,
+                        "endOffset": 4328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 98,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 98,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 129,
+                    "endOffset": 1321
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 8569,
+                        "endColumn": 129,
+                        "endOffset": 8694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1326,
+                    "endColumn": 127,
+                    "endOffset": 1449
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 8699,
+                        "endColumn": 127,
+                        "endOffset": 8822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1454,
+                    "endColumn": 108,
+                    "endOffset": 1558
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 6151,
+                        "endColumn": 108,
+                        "endOffset": 6255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1563,
+                    "endColumn": 105,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 6364,
+                        "endColumn": 105,
+                        "endOffset": 6465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1669,
+                    "endColumn": 100,
+                    "endOffset": 1765
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6050,
+                        "endColumn": 100,
+                        "endOffset": 6146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1770,
+                    "endColumn": 105,
+                    "endOffset": 1871
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 5944,
+                        "endColumn": 105,
+                        "endOffset": 6045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1876,
+                    "endColumn": 109,
+                    "endOffset": 1981
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 6470,
+                        "endColumn": 109,
+                        "endOffset": 6575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1986,
+                    "endColumn": 103,
+                    "endOffset": 2085
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 6260,
+                        "endColumn": 103,
+                        "endOffset": 6359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2090,
+                    "endColumn": 79,
+                    "endOffset": 2165
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2432,
+                        "endColumn": 79,
+                        "endOffset": 2507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2170,
+                    "endColumn": 110,
+                    "endOffset": 2276
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1123,
+                        "endColumn": 110,
+                        "endOffset": 1229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2281,
+                    "endColumn": 74,
+                    "endOffset": 2351
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 9932,
+                        "endColumn": 74,
+                        "endOffset": 10002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2356,
+                    "endColumn": 142,
+                    "endOffset": 2494
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2964,
+                        "endColumn": 142,
+                        "endOffset": 3102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2499,
+                    "endColumn": 85,
+                    "endOffset": 2580
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 10827,
+                        "endColumn": 93,
+                        "endOffset": 10916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2585,
+                    "endColumn": 85,
+                    "endOffset": 2666
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 11009,
+                        "endColumn": 93,
+                        "endOffset": 11098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2671,
+                    "endColumn": 79,
+                    "endOffset": 2746
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 10739,
+                        "endColumn": 87,
+                        "endOffset": 10822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2751,
+                    "endColumn": 79,
+                    "endOffset": 2826
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 10921,
+                        "endColumn": 87,
+                        "endOffset": 11004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2831,
+                    "endColumn": 98,
+                    "endOffset": 2925
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 8357,
+                        "endColumn": 98,
+                        "endOffset": 8451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2930,
+                    "endColumn": 86,
+                    "endOffset": 3012
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4527,
+                        "endColumn": 86,
+                        "endOffset": 4609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3017,
+                    "endColumn": 99,
+                    "endOffset": 3112
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4614,
+                        "endColumn": 99,
+                        "endOffset": 4709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3117,
+                    "endColumn": 97,
+                    "endOffset": 3210
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4429,
+                        "endColumn": 97,
+                        "endOffset": 4522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3215,
+                    "endColumn": 123,
+                    "endOffset": 3334
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5224,
+                        "endColumn": 123,
+                        "endOffset": 5343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3339,
+                    "endColumn": 95,
+                    "endOffset": 3430
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4333,
+                        "endColumn": 95,
+                        "endOffset": 4424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3435,
+                    "endColumn": 82,
+                    "endOffset": 3513
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 8073,
+                        "endColumn": 82,
+                        "endOffset": 8151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3518,
+                    "endColumn": 136,
+                    "endOffset": 3650
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1908,
+                        "endColumn": 136,
+                        "endOffset": 2040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3655,
+                    "endColumn": 120,
+                    "endOffset": 3771
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2045,
+                        "endColumn": 120,
+                        "endOffset": 2161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3776,
+                    "endColumn": 187,
+                    "endOffset": 3959
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 9744,
+                        "endColumn": 187,
+                        "endOffset": 9927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3964,
+                    "endColumn": 147,
+                    "endOffset": 4107
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 9596,
+                        "endColumn": 147,
+                        "endOffset": 9739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4112,
+                    "endColumn": 115,
+                    "endOffset": 4223
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 9480,
+                        "endColumn": 115,
+                        "endOffset": 9591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4228,
+                    "endColumn": 85,
+                    "endOffset": 4309
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 10400,
+                        "endColumn": 85,
+                        "endOffset": 10481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4314,
+                    "endColumn": 91,
+                    "endOffset": 4401
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 8156,
+                        "endColumn": 91,
+                        "endOffset": 8243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4406,
+                    "endColumn": 60,
+                    "endOffset": 4462
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1054,
+                        "endColumn": 68,
+                        "endOffset": 1118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4467,
+                    "endColumn": 116,
+                    "endOffset": 4579
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 10618,
+                        "endColumn": 120,
+                        "endOffset": 10734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4584,
+                    "endColumn": 154,
+                    "endOffset": 4734
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 10007,
+                        "endColumn": 162,
+                        "endOffset": 10165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4739,
+                    "endColumn": 127,
+                    "endOffset": 4862
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 10486,
+                        "endColumn": 131,
+                        "endOffset": 10613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4867,
+                    "endColumn": 109,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 10170,
+                        "endColumn": 109,
+                        "endOffset": 10275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 119,
+                    "endOffset": 5092
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 10280,
+                        "endColumn": 119,
+                        "endOffset": 10395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5097,
+                    "endColumn": 113,
+                    "endOffset": 5206
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 7786,
+                        "endColumn": 113,
+                        "endOffset": 7895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5211,
+                    "endColumn": 89,
+                    "endOffset": 5296
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2619,
+                        "endColumn": 89,
+                        "endOffset": 2704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5301,
+                    "endColumn": 84,
+                    "endOffset": 5381
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2709,
+                        "endColumn": 84,
+                        "endOffset": 2789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5386,
+                    "endColumn": 89,
+                    "endOffset": 5471
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2874,
+                        "endColumn": 89,
+                        "endOffset": 2959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5476,
+                    "endColumn": 79,
+                    "endOffset": 5551
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2794,
+                        "endColumn": 79,
+                        "endOffset": 2869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5556,
+                    "endColumn": 70,
+                    "endOffset": 5622
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 70,
+                        "endOffset": 953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5627,
+                    "endColumn": 135,
+                    "endOffset": 5758
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3224,
+                        "endColumn": 135,
+                        "endOffset": 3355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5763,
+                    "endColumn": 107,
+                    "endOffset": 5866
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 4714,
+                        "endColumn": 107,
+                        "endOffset": 4817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5871,
+                    "endColumn": 139,
+                    "endOffset": 6006
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3360,
+                        "endColumn": 139,
+                        "endOffset": 3495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6011,
+                    "endColumn": 132,
+                    "endOffset": 6139
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1613,
+                        "endColumn": 132,
+                        "endOffset": 1741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6144,
+                    "endColumn": 72,
+                    "endOffset": 6212
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1746,
+                        "endColumn": 72,
+                        "endOffset": 1814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6217,
+                    "endColumn": 74,
+                    "endOffset": 6287
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5348,
+                        "endColumn": 74,
+                        "endOffset": 5418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6292,
+                    "endColumn": 72,
+                    "endOffset": 6360
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 5871,
+                        "endColumn": 72,
+                        "endOffset": 5939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6365,
+                    "endColumn": 106,
+                    "endOffset": 6467
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2512,
+                        "endColumn": 106,
+                        "endOffset": 2614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6472,
+                    "endColumn": 97,
+                    "endOffset": 6565
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5423,
+                        "endColumn": 97,
+                        "endOffset": 5516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6570,
+                    "endColumn": 90,
+                    "endOffset": 6656
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5689,
+                        "endColumn": 90,
+                        "endOffset": 5775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6661,
+                    "endColumn": 80,
+                    "endOffset": 6737
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5608,
+                        "endColumn": 80,
+                        "endOffset": 5684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6742,
+                    "endColumn": 90,
+                    "endOffset": 6828
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5780,
+                        "endColumn": 90,
+                        "endOffset": 5866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6833,
+                    "endColumn": 86,
+                    "endOffset": 6915
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5521,
+                        "endColumn": 86,
+                        "endOffset": 5603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6920,
+                    "endColumn": 116,
+                    "endOffset": 7032
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3107,
+                        "endColumn": 116,
+                        "endOffset": 3219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7037,
+                    "endColumn": 174,
+                    "endOffset": 7207
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 6688,
+                        "endColumn": 174,
+                        "endOffset": 6858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7212,
+                    "endColumn": 169,
+                    "endOffset": 7377
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 7293,
+                        "endColumn": 169,
+                        "endOffset": 7458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7382,
+                    "endColumn": 176,
+                    "endOffset": 7554
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 6976,
+                        "endColumn": 176,
+                        "endOffset": 7148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7559,
+                    "endColumn": 174,
+                    "endOffset": 7729
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 7611,
+                        "endColumn": 174,
+                        "endOffset": 7781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7734,
+                    "endColumn": 107,
+                    "endOffset": 7837
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 6580,
+                        "endColumn": 107,
+                        "endOffset": 6683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7842,
+                    "endColumn": 139,
+                    "endOffset": 7977
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 7153,
+                        "endColumn": 139,
+                        "endOffset": 7288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7982,
+                    "endColumn": 112,
+                    "endOffset": 8090
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 6863,
+                        "endColumn": 112,
+                        "endOffset": 6971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8095,
+                    "endColumn": 147,
+                    "endOffset": 8238
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 7463,
+                        "endColumn": 147,
+                        "endOffset": 7606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8243,
+                    "endColumn": 87,
+                    "endOffset": 8326
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1328,
+                        "endColumn": 87,
+                        "endOffset": 1411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8331,
+                    "endColumn": 74,
+                    "endOffset": 8401
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2357,
+                        "endColumn": 74,
+                        "endOffset": 2427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8406,
+                    "endColumn": 92,
+                    "endOffset": 8494
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2166,
+                        "endColumn": 92,
+                        "endOffset": 2254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8499,
+                    "endColumn": 97,
+                    "endOffset": 8592
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2259,
+                        "endColumn": 97,
+                        "endOffset": 2352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8597,
+                    "endColumn": 134,
+                    "endOffset": 8727
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3782,
+                        "endColumn": 138,
+                        "endOffset": 3916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8732,
+                    "endColumn": 133,
+                    "endOffset": 8861
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3500,
+                        "endColumn": 137,
+                        "endOffset": 3633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8866,
+                    "endColumn": 139,
+                    "endOffset": 9001
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3638,
+                        "endColumn": 143,
+                        "endOffset": 3777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 9006,
+                    "endColumn": 111,
+                    "endOffset": 9113
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4027,
+                        "endColumn": 111,
+                        "endOffset": 4134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9118,
+                    "endColumn": 105,
+                    "endOffset": 9219
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3921,
+                        "endColumn": 105,
+                        "endOffset": 4022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9224,
+                    "endColumn": 95,
+                    "endOffset": 9315
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 958,
+                        "endColumn": 95,
+                        "endOffset": 1049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9320,
+                    "endColumn": 172,
+                    "endOffset": 9488
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 7900,
+                        "endColumn": 172,
+                        "endOffset": 8068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 9493,
+                    "endColumn": 93,
+                    "endOffset": 9582
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1234,
+                        "endColumn": 93,
+                        "endOffset": 1323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 9587,
+                    "endColumn": 88,
+                    "endOffset": 9671
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1819,
+                        "endColumn": 88,
+                        "endOffset": 1903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 9676,
+                    "endColumn": 83,
+                    "endOffset": 9755
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1529,
+                        "endColumn": 83,
+                        "endOffset": 1608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 9760,
+                    "endColumn": 121,
+                    "endOffset": 9877
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 8929,
+                        "endColumn": 121,
+                        "endOffset": 9046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 9882,
+                    "endColumn": 145,
+                    "endOffset": 10023
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 9051,
+                        "endColumn": 145,
+                        "endOffset": 9192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 10028,
+                    "endColumn": 101,
+                    "endOffset": 10125
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 8827,
+                        "endColumn": 101,
+                        "endOffset": 8924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 10130,
+                    "endColumn": 108,
+                    "endOffset": 10234
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 8248,
+                        "endColumn": 108,
+                        "endOffset": 8352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 10239,
+                    "endColumn": 112,
+                    "endOffset": 10347
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 8456,
+                        "endColumn": 112,
+                        "endOffset": 8564
+                    }
+                }
+            }
+        ]
+    }
+]

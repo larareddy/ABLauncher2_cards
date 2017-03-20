@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/card_picker"
+    android:background="@drawable/card_pick_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--
+    android:layout_width="@dimen/card_picker_width"
+    android:layout_height="@dimen/card_picker_height">
+    -->
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/picker_title"
+            android:text="@string/add_card"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/card_picker_title_size"
+            android:layout_marginStart="@dimen/card_picker_header_margin_start"
+            android:layout_marginTop="@dimen/card_picker_header_margin_top"
+            android:fontFamily="sans-serif-condensed"
+            android:textColor="@color/add_card_text_color" />
+        <ImageView
+            android:id="@+id/btn_card_picker_cancel"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_alignParentEnd="true"
+            android:gravity="center_vertical"
+            android:src="@drawable/add_card_cancel_btn_selector"
+            android:layout_marginEnd="@dimen/card_picker_cancel_btn_margin"
+            android:layout_marginTop="@dimen/card_picker_cancel_btn_margin" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_marginStart="@dimen/card_picker_grid_padding"
+        android:layout_marginEnd="@dimen/card_picker_grid_padding"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <GridView
+            android:id="@+id/card_pick_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:verticalSpacing="@dimen/card_picker_grid_vertical_space"
+            android:gravity="center"
+            android:numColumns="@integer/card_picker_num_columns"
+            android:listSelector="@android:color/transparent"/>
+    </RelativeLayout>
+</LinearLayout>

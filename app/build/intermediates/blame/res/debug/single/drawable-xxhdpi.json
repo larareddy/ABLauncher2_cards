@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\hotseat_scrubber_holo.9.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-xxhdpi\\hotseat_scrubber_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_selected_holo.9.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_unselected_holo.9.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_focused_holo.9.png"
+    }
+]

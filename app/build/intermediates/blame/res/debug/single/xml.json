@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\xml\\wallpaper_picker_preview.xml",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\xml\\wallpaper_picker_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_4_snacks.xml",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\xml\\default_workspace_4_snacks.xml"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace_2_meals.xml",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\xml\\default_workspace_2_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\xml\\update_workspace.xml",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\xml\\update_workspace.xml"
+    },
+    {
+        "merged": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace.xml",
+        "source": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\xml\\default_workspace.xml"
+    }
+]

@@ -1,0 +1,13 @@
+#Mon Mar 20 15:59:16 EDT 2017
+renamed.3=classes3.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes4.dex
+base.3=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c3c083f20fa274cd64e4725d526a620f7bad9082
+base.2=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_802a0dcff6fb3839f5d20803faeff8ba786ee028
+base.1=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b13e6588990735d0831b47853a440ebf204035dc
+base.0=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.2.0_228d68984f93eeacf3dacb1aa006388cef6dc1d0
+file.3=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c3c083f20fa274cd64e4725d526a620f7bad9082\\classes.dex
+file.2=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_802a0dcff6fb3839f5d20803faeff8ba786ee028\\classes.dex
+file.1=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b13e6588990735d0831b47853a440ebf204035dc\\classes.dex
+file.0=C\:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.2.0_228d68984f93eeacf3dacb1aa006388cef6dc1d0\\classes.dex

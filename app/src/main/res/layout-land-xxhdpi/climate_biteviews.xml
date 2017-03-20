@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.hmlauncher2.cards.climate.ClimateBiteViews xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null">
+    <include layout="@layout/card_title" />
+    <com.android.hmlauncher2.cards.widgets.HomeScreenViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_gravity="center" android:gravity="center"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center" android:gravity="center"
+                    android:orientation="horizontal">
+
+
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="wrap_content" android:padding="1dp"
+                        android:id="@+id/seat3"
+                        android:layout_gravity="center"
+                        android:foregroundGravity="center"
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:background="@color/colorTrans"
+                        android:src="@drawable/active_floor_head_ic"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:orientation="horizontal" android:padding="3dp" android:background="@color/colorActiveButton">
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/wind_fan_low_speed" android:padding="1dp"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:foregroundGravity="center"
+                        android:scaleType="fitXY"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:src="@drawable/fan_speed_lower"/>
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="0dp" android:padding="1dp"
+                        android:id="@+id/wind1"
+                        android:layout_weight="1"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="1dp"
+                        android:scaleType="fitXY"
+                        android:background="@color/colorSyncButton" android:layout_marginRight="1dp"/>
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="0dp" android:padding="1dp"
+                        android:id="@+id/wind2" android:layout_marginLeft="1dp"
+                        android:layout_height="50dp"
+                        android:layout_weight="1"
+                        android:scaleType="fitXY"
+                        android:layout_marginRight="1dp"
+                        android:background="@color/colorSyncButton"
+                        />
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="0dp" android:padding="1dp"
+                        android:id="@+id/wind3" android:layout_marginLeft="1dp" android:layout_marginRight="1dp"
+                        android:layout_height="50dp"
+                        android:layout_weight="1"
+                        android:background="@color/colorSyncButton"
+                        android:scaleType="fitXY"
+                        />
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="0dp" android:padding="1dp"
+                        android:id="@+id/wind4"
+                        android:layout_weight="1"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:scaleType="fitXY"
+                        android:background="@color/colorSyncButton"/>
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="0dp" android:padding="1dp"
+                        android:id="@+id/wind5"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_height="50dp"
+                        android:scaleType="fitXY"
+                        android:background="@color/colorDarkGray"
+                        />
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="0dp"
+                        android:padding="1dp"
+                        android:id="@+id/wind6"
+                        android:layout_weight="1"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:scaleType="fitXY"
+                        android:background="@color/colorDarkGray"></ImageView>
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="0dp" android:padding="1dp"
+                        android:id="@+id/wind7"
+                        android:layout_weight="1"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:scaleType="fitXY"
+                        android:background="@color/colorDarkGray"/>
+                    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:id="@+id/windfan_high_speed"
+                        android:layout_gravity="center"
+                        android:foregroundGravity="center"
+                        android:padding="1dp"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/fanspeed_small"/>
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        //2nd Page
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent" android:layout_marginTop="5dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" android:gravity="center"
+            android:orientation="horizontal" android:background="@color/colorTrans">
+            <LinearLayout
+                android:layout_width="wrap_content" android:padding="5dp"
+                android:layout_height="wrap_content" android:orientation="vertical">
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/left_havc_warm" android:padding="1dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/hvac_warmer"/>
+                <TextView
+                    android:id="@+id/temp_left"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="00dp"
+                    android:layout_marginRight="0dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:ellipsize="end"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:maxLines="1"
+                    android:text="68\u00B0"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="20dp"
+                    android:visibility="visible" />
+
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/left_havc_cooler" android:padding="1dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/hvac_cooler"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_gravity="center" android:gravity="center"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+
+                    <Button
+                        android:layout_width="80dp" android:text="Sync"
+                        android:textSize="20dp"
+                        android:textColor="@color/colorWhite"
+                        android:layout_gravity="center"
+                        android:foregroundGravity="center"
+                        android:gravity="center"
+                        android:layout_height="30dp"
+                        android:background="@color/colorSyncButton" />
+                </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content" android:layout_margin="5dp"
+                android:layout_gravity="right"
+                android:layout_marginLeft="10dp"
+                android:gravity="right"
+                android:layout_height="wrap_content" android:orientation="vertical">
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/right_havc_warm" android:padding="1dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/hvac_warmer"/>
+                <TextView
+                    android:id="@+id/temp_right"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="0dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:ellipsize="end"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:maxLines="1"
+                    android:text="68\u00B0"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="20dp"
+                    android:visibility="visible" />
+
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/right_havc_cooler" android:padding="1dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/hvac_cooler"/>
+
+            </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+        //3rd Page
+        <LinearLayout
+            android:layout_width="match_parent" android:gravity="center"
+            android:foregroundGravity="center"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@color/colorSyncButton" android:gravity="center"
+                android:foregroundGravity="center"
+                android:layout_height="match_parent">
+                <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:foregroundGravity="center"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/controls_icon">
+                </ImageView>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/climate_off"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:maxLines="1"
+                android:text="Climate Off"
+                android:textColor="@color/colorWhite"
+                android:textSize="28dp"
+                android:visibility="visible" />
+
+            <LinearLayout
+                android:layout_width="match_parent"   android:layout_marginTop="10dp"
+                android:background="@color/colorActiveButton" android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_height="60dp">
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                android:src="@drawable/off_button"
+                android:layout_gravity="center"
+                android:foregroundGravity="center"
+
+                >
+            </ImageView>
+            </LinearLayout>
+        </LinearLayout>
+    </com.android.hmlauncher2.cards.widgets.HomeScreenViewPager>
+    <include layout="@layout/page_indicator" />
+</com.android.hmlauncher2.cards.climate.ClimateBiteViews>

@@ -1,0 +1,1542 @@
+[
+    {
+        "outputFile": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2097,
+                        "endColumn": 63,
+                        "endOffset": 2156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 50,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 50,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 44,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 44,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 57,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1915,
+                        "endColumn": 57,
+                        "endOffset": 1968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 56,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1858,
+                        "endColumn": 56,
+                        "endOffset": 1910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 48,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 48,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 63,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 956,
+                        "endColumn": 63,
+                        "endOffset": 1015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 61,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 61,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 60,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 60,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endColumn": 60,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1020,
+                        "endColumn": 60,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 61,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 61,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 61,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3087,
+                        "endColumn": 61,
+                        "endOffset": 3144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 61,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3025,
+                        "endColumn": 61,
+                        "endOffset": 3082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 59,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2723,
+                        "endColumn": 59,
+                        "endOffset": 2778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 59,
+                    "endOffset": 928
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2663,
+                        "endColumn": 59,
+                        "endOffset": 2718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 933,
+                    "endColumn": 60,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2844,
+                        "endColumn": 60,
+                        "endOffset": 2900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 60,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2783,
+                        "endColumn": 60,
+                        "endOffset": 2839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 59,
+                    "endOffset": 1110
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2965,
+                        "endColumn": 59,
+                        "endOffset": 3020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1115,
+                    "endColumn": 59,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2905,
+                        "endColumn": 59,
+                        "endOffset": 2960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endColumn": 45,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2531,
+                        "endColumn": 45,
+                        "endOffset": 2572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 45,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2577,
+                        "endColumn": 45,
+                        "endOffset": 2618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 49,
+                    "endOffset": 1312
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 3304,
+                        "endColumn": 49,
+                        "endOffset": 3349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1317,
+                    "endColumn": 48,
+                    "endOffset": 1361
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3255,
+                        "endColumn": 48,
+                        "endOffset": 3299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1366,
+                    "endColumn": 47,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3452,
+                        "endColumn": 47,
+                        "endOffset": 3495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endColumn": 44,
+                    "endOffset": 1454
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3500,
+                        "endColumn": 44,
+                        "endOffset": 3540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1459,
+                    "endColumn": 50,
+                    "endOffset": 1505
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3354,
+                        "endColumn": 50,
+                        "endOffset": 3400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1510,
+                    "endColumn": 46,
+                    "endOffset": 1552
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3405,
+                        "endColumn": 46,
+                        "endOffset": 3447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1557,
+                    "endColumn": 48,
+                    "endOffset": 1601
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 48,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1606,
+                    "endColumn": 45,
+                    "endOffset": 1647
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1416,
+                        "endColumn": 45,
+                        "endOffset": 1457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1652,
+                    "endColumn": 51,
+                    "endOffset": 1699
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1462,
+                        "endColumn": 51,
+                        "endOffset": 1509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1704,
+                    "endColumn": 48,
+                    "endOffset": 1748
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1514,
+                        "endColumn": 48,
+                        "endOffset": 1558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1753,
+                    "endColumn": 49,
+                    "endOffset": 1798
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1563,
+                        "endColumn": 49,
+                        "endOffset": 1608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1803,
+                    "endColumn": 61,
+                    "endOffset": 1860
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1677,
+                        "endColumn": 61,
+                        "endOffset": 1734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1865,
+                    "endColumn": 44,
+                    "endOffset": 1905
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 44,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1910,
+                    "endColumn": 48,
+                    "endOffset": 1954
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1785,
+                        "endColumn": 48,
+                        "endOffset": 1829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1959,
+                    "endColumn": 64,
+                    "endOffset": 2019
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 64,
+                        "endOffset": 1391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2024,
+                    "endColumn": 62,
+                    "endOffset": 2082
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endColumn": 62,
+                        "endOffset": 1326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2087,
+                    "endColumn": 61,
+                    "endOffset": 2144
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2298,
+                        "endColumn": 61,
+                        "endOffset": 2355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2149,
+                    "endColumn": 60,
+                    "endOffset": 2205
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2237,
+                        "endColumn": 60,
+                        "endOffset": 2293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2210,
+                    "endColumn": 93,
+                    "endOffset": 2299
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 4064,
+                        "endColumn": 93,
+                        "endOffset": 4153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2304,
+                    "endColumn": 93,
+                    "endOffset": 2393
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3970,
+                        "endColumn": 93,
+                        "endOffset": 4059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2398,
+                    "endColumn": 57,
+                    "endOffset": 2451
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 4661,
+                        "endColumn": 57,
+                        "endOffset": 4714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2456,
+                    "endColumn": 57,
+                    "endOffset": 2509
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 4719,
+                        "endColumn": 57,
+                        "endOffset": 4772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2514,
+                    "endColumn": 56,
+                    "endOffset": 2566
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4547,
+                        "endColumn": 56,
+                        "endOffset": 4599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2571,
+                    "endColumn": 56,
+                    "endOffset": 2623
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 4604,
+                        "endColumn": 56,
+                        "endOffset": 4656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2628,
+                    "endColumn": 62,
+                    "endOffset": 2686
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 4454,
+                        "endColumn": 62,
+                        "endOffset": 4512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2691,
+                    "endColumn": 62,
+                    "endOffset": 2749
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 4267,
+                        "endColumn": 62,
+                        "endOffset": 4325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2754,
+                    "endColumn": 63,
+                    "endOffset": 2813
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4330,
+                        "endColumn": 63,
+                        "endOffset": 4389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2818,
+                    "endColumn": 59,
+                    "endOffset": 2873
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4394,
+                        "endColumn": 59,
+                        "endOffset": 4449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2878,
+                    "endColumn": 53,
+                    "endOffset": 2927
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 4213,
+                        "endColumn": 53,
+                        "endOffset": 4262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2932,
+                    "endColumn": 56,
+                    "endOffset": 2984
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4888,
+                        "endColumn": 56,
+                        "endOffset": 4940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2989,
+                    "endColumn": 56,
+                    "endOffset": 3041
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 4945,
+                        "endColumn": 56,
+                        "endOffset": 4997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3046,
+                    "endColumn": 57,
+                    "endOffset": 3099
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 3631,
+                        "endColumn": 57,
+                        "endOffset": 3684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3104,
+                    "endColumn": 57,
+                    "endOffset": 3157
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3573,
+                        "endColumn": 57,
+                        "endOffset": 3626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3162,
+                    "endColumn": 58,
+                    "endOffset": 3216
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3748,
+                        "endColumn": 58,
+                        "endOffset": 3802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3221,
+                    "endColumn": 58,
+                    "endOffset": 3275
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3689,
+                        "endColumn": 58,
+                        "endOffset": 3743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3280,
+                    "endColumn": 80,
+                    "endOffset": 3356
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3889,
+                        "endColumn": 80,
+                        "endOffset": 3965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3361,
+                    "endColumn": 80,
+                    "endOffset": 3437
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3808,
+                        "endColumn": 80,
+                        "endOffset": 3884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3442,
+                    "endColumn": 55,
+                    "endOffset": 3493
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 4777,
+                        "endColumn": 55,
+                        "endOffset": 4828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3498,
+                    "endColumn": 54,
+                    "endOffset": 3548
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 4833,
+                        "endColumn": 54,
+                        "endOffset": 4883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3553,
+                    "endColumn": 61,
+                    "endOffset": 3610
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1973,
+                        "endColumn": 61,
+                        "endOffset": 2030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3615,
+                    "endColumn": 61,
+                    "endOffset": 3672
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2035,
+                        "endColumn": 61,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3677,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 4291
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4296,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 4655
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1798,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 2157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4660,
+                    "endLine": 93,
+                    "endColumn": 12,
+                    "endOffset": 5147
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1306,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 5152,
+                    "endLine": 108,
+                    "endColumn": 12,
+                    "endOffset": 5916
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 6756,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 7520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 5921,
+                    "endLine": 112,
+                    "endColumn": 12,
+                    "endOffset": 6090
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 6582,
+                        "endLine": 146,
+                        "endColumn": 12,
+                        "endOffset": 6751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 6095,
+                    "endLine": 120,
+                    "endColumn": 12,
+                    "endOffset": 6540
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5533,
+                        "endLine": 131,
+                        "endColumn": 12,
+                        "endOffset": 5978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 6545,
+                    "endLine": 125,
+                    "endColumn": 12,
+                    "endOffset": 6827
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 6295,
+                        "endLine": 142,
+                        "endColumn": 12,
+                        "endOffset": 6577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 6832,
+                    "endLine": 131,
+                    "endColumn": 12,
+                    "endOffset": 7139
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 5983,
+                        "endLine": 137,
+                        "endColumn": 12,
+                        "endOffset": 6290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 7144,
+                    "endLine": 137,
+                    "endColumn": 12,
+                    "endOffset": 7405
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 5224,
+                        "endLine": 121,
+                        "endColumn": 12,
+                        "endOffset": 5485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 7410,
+                    "endLine": 140,
+                    "endColumn": 12,
+                    "endOffset": 7557
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 4011,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 4158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 7562,
+                    "endLine": 143,
+                    "endColumn": 12,
+                    "endOffset": 7677
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4164,
+                        "endLine": 96,
+                        "endColumn": 12,
+                        "endOffset": 4279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 7682,
+                    "endLine": 151,
+                    "endColumn": 12,
+                    "endOffset": 8072
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3095,
+                        "endLine": 78,
+                        "endColumn": 12,
+                        "endOffset": 3485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 8077,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 8490
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4806,
+                        "endLine": 115,
+                        "endColumn": 12,
+                        "endOffset": 5219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 8495,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 9010
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3490,
+                        "endLine": 88,
+                        "endColumn": 12,
+                        "endOffset": 4005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 9015,
+                    "endLine": 177,
+                    "endColumn": 12,
+                    "endOffset": 9404
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2182,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 2571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 9409,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 9925
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4285,
+                        "endLine": 107,
+                        "endColumn": 12,
+                        "endOffset": 4801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 9930,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 10444
+                },
+                "from": {
+                    "file": "C:\\Users\\HemanthReddy\\Desktop\\ABLauncher2_cards\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2576,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 3090
+                    }
+                }
+            }
+        ]
+    }
+]
